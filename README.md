@@ -25,7 +25,6 @@ Répertoires :
 - `arduino/` : sketch Arduino (`.ino`)
 - `server/` : serveur Express + SerialPort
 - `mobile/` : app Expo (Expo Router)
-- `memory-bank/` : contexte projet (brief, patterns, décisions)
 
 ## Prérequis
 

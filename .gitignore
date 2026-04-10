@@ -16,3 +16,5 @@ mobile/.env.*
 .DS_Store
 Thumbs.db
 
+# Project memory (excluded from git)
+memory-bank/
