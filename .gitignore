@@ -1,0 +1,18 @@
+# Node / npm
+**/node_modules/
+**/npm-debug.log*
+**/yarn-error.log*
+
+# Expo
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+mobile/.env
+mobile/.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
